@@ -24,7 +24,7 @@
 | petrol pump | gas station (I am pretty sure there is no 
 | | gas coming outta those pipes at gas stations) |
 | temporary, for time being, for short time | momentarily |
-| passage, varandah  | corridor, hallway |
+| passage, verandah  | hallway, corridor, porch |
 | highway | freeway (ironic some free ways have tolls ?!)|
 | Stand in a queue | Stand in line |
 | Ground floor in India | 1st floor in US |
