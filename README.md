@@ -41,7 +41,6 @@
 | Cricket / Football match | Football game |
 | reverse (a vehicle) | back up |
 | Jungle, Forest | Woods |
-| | (I am yet to hear the word 'jungle' in person from an American ie. not on TV or not referring to Jungle Book, i have lived in US for over a decade)|
 | park the car | pull over the car |
 | sports shoes | Nikes, sneakers, tennis shoes |
 | (Government) | 
