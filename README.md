@@ -47,7 +47,7 @@
 | (Government) | 
 | police, havaldar(mumbai) | cop |
 | traffic police, traffic havaldar(mumbai) | highway patrol cop, traffic cop |
-| Police Inspector, ACP, DCP | Officer, Sergeant, Lieutenant (Not exactly equivalent) |
+| Constable, Police Inspector, ACP, DCP | Officer, Sergeant, Lieutenant (Not exactly equivalent) |
 | RTO | DMV |
 | (Elected officials)MLA, MP | Senator, Congressman/woman |
 | (Things ppl say) | |
